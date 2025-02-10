@@ -1,0 +1,24 @@
+#top{
+    display: flex;
+    background-color: red;
+    width: 95%;
+    height: 50px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+#toplist{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.greytop{
+    background-color: grey;
+}
