@@ -55,8 +55,15 @@ body{
     justify-content: center;
     align-items: center;
     background-color:limegreen;
-    width: 72%;
+    width: 84%;
     margin-left: 20px;
+}
+
+
+#biggrey{
+    width: 300pt;
+    height: 150pt;
+    background-color: lightslategray;
 }
 
 
